@@ -496,7 +496,7 @@ Descriptions come from GitHub; when empty, from the repo's page title or README 
 
 | Forked | Repo | Upstream | Description |
 |---|---|---|---|
-| 31 Oct 2026 | [agency-agents](https://github.com/anandvip/agency-agents) | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| 31 Oct 2026 | [agency-agents](https://github.com/anandvip/agency-agents) ([roster page source: Agency Agents roster and guide](https://github.com/anandvip/agency-agents/blob/vipul/index.html); live page not enabled yet) | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 | 19 Aug 2026 | [AIOS-cropbatching](https://github.com/anandvip/AIOS-cropbatching) | [agiresearch/AIOS](https://github.com/agiresearch/AIOS) | AIOS: AI Agent Operating System |
 | 19 Aug 2026 | [porter2x4](https://github.com/anandvip/porter2x4) | [getporter/porter](https://github.com/getporter/porter) | Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. |
 | 13 May 2026 | [asimov-1](https://github.com/anandvip/asimov-1) | [menloresearch/asimov-1](https://github.com/menloresearch/asimov-1) | v1 of Asimov, an open-source humanoid robot |
