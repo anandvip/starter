@@ -17,14 +17,15 @@ Issues and pull requests are welcome.
 
 ## GitHub catalogue
 
-Updated 01 Nov 2026 (IST). 490 public repos under [github.com/anandvip](https://github.com/anandvip): 466 my own, 24 forked. Sorted latest first. Browse and search it on the page: [anandvip.github.io/starter](https://anandvip.github.io/starter/#catalogue).
+Updated 04 Nov 2026 (IST). 491 public repos under [github.com/anandvip](https://github.com/anandvip): 467 my own, 24 forked. Sorted latest first. Browse and search it on the page: [anandvip.github.io/starter](https://anandvip.github.io/starter/#catalogue).
 
 Descriptions come from GitHub; when empty, from the repo's page title or README title (marked), otherwise _no description written_.
 
-### My repos (466)
+### My repos (467)
 
 | Created | Repo | Description |
 |---|---|---|
+| 02 Nov 2026 | [pharmacy-billing](https://github.com/anandvip/pharmacy-billing) | Counter Khata: offline credit khata and itemized billing for pharmacies. Live at [pharmacy.vipulanand.in](https://pharmacy.vipulanand.in/) _(from page description)_ |
 | 30 Oct 2026 | [agentic-claude](https://github.com/anandvip/agentic-claude) | Building a Chief of Staff and an agentic team on Claude — step-by-step guide (single-file page) |
 | 30 Oct 2026 | [ethanol](https://github.com/anandvip/ethanol) | Open baseline on India's ethanol programme: farmer access in 10 states, E100 and the Supreme Court, feedstocks, GST, official contacts, source log. For agents doing crop assessment and policy critique. |
 | 30 Oct 2026 | [ethanol-](https://github.com/anandvip/ethanol-) | 100% ethanol stage coming soon |
