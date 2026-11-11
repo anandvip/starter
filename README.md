@@ -17,14 +17,16 @@ Issues and pull requests are welcome.
 
 ## GitHub catalogue
 
-Updated 04 Nov 2026 (IST). 491 public repos under [github.com/anandvip](https://github.com/anandvip): 467 my own, 24 forked. Sorted latest first. Browse and search it on the page: [anandvip.github.io/starter](https://anandvip.github.io/starter/#catalogue).
+Updated 11 Nov 2026 (IST). 493 public repos under [github.com/anandvip](https://github.com/anandvip): 469 my own, 24 forked. Sorted latest first. Browse and search it on the page: [anandvip.github.io/starter](https://anandvip.github.io/starter/#catalogue).
 
 Descriptions come from GitHub; when empty, from the repo's page title or README title (marked), otherwise _no description written_.
 
-### My repos (467)
+### My repos (469)
 
 | Created | Repo | Description |
 |---|---|---|
+| 10 Nov 2026 | [dutchland](https://github.com/anandvip/dutchland) | Dutchland Order Book: single-file itemized monthly ordering page |
+| 10 Nov 2026 | [mushroom-haryana](https://github.com/anandvip/mushroom-haryana) | Mushroom farming in Haryana: full-cycle benchmark study (Kurukshetra focus). Permission required before reuse, republication, or AI training. |
 | 02 Nov 2026 | [pharmacy-billing](https://github.com/anandvip/pharmacy-billing) | Counter Khata: offline credit khata and itemized billing for pharmacies. Live at [pharmacy.vipulanand.in](https://pharmacy.vipulanand.in/) _(from page description)_ |
 | 30 Oct 2026 | [agentic-claude](https://github.com/anandvip/agentic-claude) | Building a Chief of Staff and an agentic team on Claude — step-by-step guide (single-file page) |
 | 30 Oct 2026 | [ethanol](https://github.com/anandvip/ethanol) | Open baseline on India's ethanol programme: farmer access in 10 states, E100 and the Supreme Court, feedstocks, GST, official contacts, source log. For agents doing crop assessment and policy critique. |
