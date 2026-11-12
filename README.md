@@ -17,14 +17,15 @@ Issues and pull requests are welcome.
 
 ## GitHub catalogue
 
-Updated 11 Nov 2026 (IST). 493 public repos under [github.com/anandvip](https://github.com/anandvip): 469 my own, 24 forked. Sorted latest first. Browse and search it on the page: [anandvip.github.io/starter](https://anandvip.github.io/starter/#catalogue).
+Updated 12 Nov 2026 (IST). 494 public repos under [github.com/anandvip](https://github.com/anandvip): 470 my own, 24 forked. Sorted latest first. Browse and search it on the page: [anandvip.github.io/starter](https://anandvip.github.io/starter/#catalogue).
 
 Descriptions come from GitHub; when empty, from the repo's page title or README title (marked), otherwise _no description written_.
 
-### My repos (469)
+### My repos (470)
 
 | Created | Repo | Description |
 |---|---|---|
+| 11 Nov 2026 | [mushroom-field-study-solan](https://github.com/anandvip/mushroom-field-study-solan) | Mushroom field study, Solan — annex to the Kurukshetra/Haryana diversification study |
 | 10 Nov 2026 | [dutchland](https://github.com/anandvip/dutchland) | Dutchland Order Book: single-file itemized monthly ordering page |
 | 10 Nov 2026 | [mushroom-haryana](https://github.com/anandvip/mushroom-haryana) | Mushroom farming in Haryana: full-cycle benchmark study (Kurukshetra focus). Permission required before reuse, republication, or AI training. |
 | 02 Nov 2026 | [pharmacy-billing](https://github.com/anandvip/pharmacy-billing) | Counter Khata: offline credit khata and itemized billing for pharmacies. Live at [pharmacy.vipulanand.in](https://pharmacy.vipulanand.in/) _(from page description)_ |
