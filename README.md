@@ -93,7 +93,7 @@ Descriptions come from GitHub; when empty, from the repo's page title or README 
 | 01 May 2026 | [subdomains](https://github.com/anandvip/subdomains) | vipulanand.in — Subdomain Directory _(from page title)_ |
 | 30 Apr 2026 | [axoft](https://github.com/anandvip/axoft) | study consciousness |
 | 29 Apr 2026 | [bhawana](https://github.com/anandvip/bhawana) | Bhawna \| SOC Analyst CV _(from page title)_ |
-| 26 Apr 2026 | [msme](https://github.com/anandvip/msme) | don't know what is this for. |
+| 26 Apr 2026 | [msme](https://github.com/anandvip/msme) | संगम: weekly MSME and agri-market briefs with open data |
 | 26 Apr 2026 | [waterbill-](https://github.com/anandvip/waterbill-) | billing issues |
 | 24 Apr 2026 | [INVESTMENT-PHASE-2](https://github.com/anandvip/INVESTMENT-PHASE-2) | FD Rate Intelligence — India 2026 _(from page title)_ |
 | 13 Apr 2026 | [11](https://github.com/anandvip/11) | ekadashi significance ritually |
