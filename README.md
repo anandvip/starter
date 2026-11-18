@@ -17,14 +17,15 @@ Issues and pull requests are welcome.
 
 ## GitHub catalogue
 
-Updated 16 Nov 2026 (IST). 496 public repos under [github.com/anandvip](https://github.com/anandvip): 472 my own, 24 forked. Sorted latest first. Browse and search it on the page: [anandvip.github.io/starter](https://anandvip.github.io/starter/#catalogue).
+Updated 18 Nov 2026 (IST). 497 public repos under [github.com/anandvip](https://github.com/anandvip): 473 my own, 24 forked. Sorted latest first. Browse and search it on the page: [anandvip.github.io/starter](https://anandvip.github.io/starter/#catalogue).
 
 Descriptions come from GitHub; when empty, from the repo's page title or README title (marked), otherwise _no description written_.
 
-### My repos (472)
+### My repos (473)
 
 | Created | Repo | Description |
 |---|---|---|
+| 18 Nov 2026 | [money-lexicon](https://github.com/anandvip/money-lexicon) ([Lexicon of Modern Money Habits](https://anandvip.github.io/money-lexicon/)) | Lexicon of Modern Money Habits: invented words for everyday money behaviours, single-file study page |
 | 16 Nov 2026 | [ecstasy](https://github.com/anandvip/ecstasy) | Soak in Ecstasy: Jaipur event plan, 10 Jan 2027 |
 | 14 Nov 2026 | [choghadiya-wheel](https://github.com/anandvip/choghadiya-wheel) | Choghadiya wheel: live active slot from your device clock, with Vaar Vela, Kaal Vela, Kaal Ratri and Rahu Kaal. Single-file, offline. |
 | 11 Nov 2026 | [mushroom-field-study-solan](https://github.com/anandvip/mushroom-field-study-solan) | Mushroom field study, Solan — annex to the Kurukshetra/Haryana diversification study |
