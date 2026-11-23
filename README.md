@@ -29,7 +29,7 @@ Descriptions come from GitHub; when empty, from the repo's page title or README 
 | 18 Nov 2026 | [money-lexicon](https://github.com/anandvip/money-lexicon) ([Lexicon of Modern Money Habits](https://anandvip.github.io/money-lexicon/)) | Lexicon of Modern Money Habits: invented words for everyday money behaviours, single-file study page |
 | 16 Nov 2026 | [ecstasy](https://github.com/anandvip/ecstasy) | Soak in Ecstasy: Jaipur event plan, 10 Jan 2027 |
 | 14 Nov 2026 | [choghadiya-wheel](https://github.com/anandvip/choghadiya-wheel) | Choghadiya wheel: live active slot from your device clock, with Vaar Vela, Kaal Vela, Kaal Ratri and Rahu Kaal. Single-file, offline. |
-| 11 Nov 2026 | [mushroom-field-study-solan](https://github.com/anandvip/mushroom-field-study-solan) | Mushroom field study, Solan — annex to the Kurukshetra/Haryana diversification study |
+| 11 Nov 2026 | [mushroom-field-study-solan](https://github.com/anandvip/mushroom-field-study-solan) | Mushroom field study, Solan — annex to the Kurukshetra/Haryana diversification study. Live at [solan.vipulanand.in](https://solan.vipulanand.in/) _(custom domain since 23 Nov 2026)_ |
 | 10 Nov 2026 | [dutchland](https://github.com/anandvip/dutchland) | Dutchland Order Book: single-file itemized monthly ordering page |
 | 10 Nov 2026 | [mushroom-haryana](https://github.com/anandvip/mushroom-haryana) | Mushroom farming in Haryana: full-cycle benchmark study (Kurukshetra focus). Permission required before reuse, republication, or AI training. |
 | 02 Nov 2026 | [pharmacy-billing](https://github.com/anandvip/pharmacy-billing) | Counter Khata: offline credit khata and itemized billing for pharmacies. Live at [pharmacy.vipulanand.in](https://pharmacy.vipulanand.in/) _(from page description)_ |
