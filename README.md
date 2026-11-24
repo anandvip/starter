@@ -17,15 +17,16 @@ Issues and pull requests are welcome.
 
 ## GitHub catalogue
 
-Updated 23 Nov 2026 (IST). 498 public repos under [github.com/anandvip](https://github.com/anandvip): 474 my own, 24 forked. Sorted latest first. Browse and search it on the page: [anandvip.github.io/starter](https://anandvip.github.io/starter/#catalogue).
+Updated 24 Nov 2026 (IST). 499 public repos under [github.com/anandvip](https://github.com/anandvip): 475 my own, 24 forked. Sorted latest first. Browse and search it on the page: [anandvip.github.io/starter](https://anandvip.github.io/starter/#catalogue).
 
 Descriptions come from GitHub; when empty, from the repo's page title or README title (marked), otherwise _no description written_.
 
-### My repos (474)
+### My repos (475)
 
 | Created | Repo | Description |
 |---|---|---|
 | 22 Nov 2026 | [news-for-va](https://github.com/anandvip/news-for-va) | VA Graphics Weekly Dispatch: curated weekly news edition. Live at [anandvip.github.io/news-for-va](https://anandvip.github.io/news-for-va/) |
+| 22 Nov 2026 | [News-](https://github.com/anandvip/News-) | _no description written_ |
 | 18 Nov 2026 | [money-lexicon](https://github.com/anandvip/money-lexicon) ([Lexicon of Modern Money Habits](https://anandvip.github.io/money-lexicon/)) | Lexicon of Modern Money Habits: invented words for everyday money behaviours, single-file study page |
 | 16 Nov 2026 | [ecstasy](https://github.com/anandvip/ecstasy) | Soak in Ecstasy: Jaipur event plan, 10 Jan 2027 |
 | 14 Nov 2026 | [choghadiya-wheel](https://github.com/anandvip/choghadiya-wheel) | Choghadiya wheel: live active slot from your device clock, with Vaar Vela, Kaal Vela, Kaal Ratri and Rahu Kaal. Single-file, offline. |
