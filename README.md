@@ -25,7 +25,7 @@ Descriptions come from GitHub; when empty, from the repo's page title or README 
 
 | Created | Repo | Description |
 |---|---|---|
-| 26 Nov 2026 | [va-logo](https://github.com/anandvip/va-logo) | _no description written_ |
+| 26 Nov 2026 | [va-logo](https://github.com/anandvip/va-logo) | The VA logo as SVG and transparent PNG, for web pages and single-file offline tools |
 | 22 Nov 2026 | [news-for-va](https://github.com/anandvip/news-for-va) | VA Graphics Weekly Dispatch: curated weekly news edition. Live at [anandvip.github.io/news-for-va](https://anandvip.github.io/news-for-va/) |
 | 22 Nov 2026 | [News-](https://github.com/anandvip/News-) | _no description written_ |
 | 18 Nov 2026 | [money-lexicon](https://github.com/anandvip/money-lexicon) ([Lexicon of Modern Money Habits](https://anandvip.github.io/money-lexicon/)) | Lexicon of Modern Money Habits: invented words for everyday money behaviours, single-file study page |
